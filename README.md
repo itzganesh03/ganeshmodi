@@ -327,34 +327,6 @@ DB Optimization</b>
 
 ---
 
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> &nbsp;GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzganesh03&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=itzganesh03&hide_border=true&theme=tokyonight&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="streak"/>
-
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzganesh03&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="top-langs"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzganesh03&theme=github_dark" alt="repos-per-language"/>
-
-
-
-
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzganesh03&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"/>
-
-
-
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=itzganesh03&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Development Dashboard
 
 <details open>
@@ -438,6 +410,54 @@ DB Optimization</b>
  2025  ███████████████████░  ad platform ownership  ← peak
  2026  ████████████████░░░░  performance engineering (in progress)
 ```
+
+</details>
+
+---
+
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> &nbsp;GitHub Activity — Personal & Open Source
+
+<details>
+<summary><b>🐙 Public GitHub account stats — click to expand</b></summary>
+
+
+
+
+> **Scope note.** The cards below reflect my **public GitHub account only** — side projects,
+> experiments and learning repositories. My professional backend work (Go, Kafka, ScyllaDB,
+> ad-serving infrastructure) lives in **private enterprise repositories on a self-hosted
+> Azure DevOps server**, which GitHub cannot index. For that work, see the
+> **Development Dashboard** above — it is the accurate picture of what I do day to day.
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzganesh03&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=itzganesh03&hide_border=true&theme=tokyonight&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="streak"/>
+
+
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzganesh03&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="top-langs"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzganesh03&theme=github_dark" alt="repos-per-language"/>
+
+
+
+
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzganesh03&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"/>
+
+
+
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=itzganesh03&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+
+</div>
+
+
+
+
+<sub><i>Cards are rendered by shared public services. If one appears blank, it is temporarily
+rate-limited rather than misconfigured — reload in a few minutes.</i></sub>
 
 </details>
 
