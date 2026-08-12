@@ -33,6 +33,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -e
+          # snk runs in a Docker container as root, so dist/ is root-owned.
+          # Hand it back to the runner user before touching it with git.
+          sudo chown -R "$(id -u):$(id -g)" dist
           cd dist
           git init -q
           git checkout -q -b output
