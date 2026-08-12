@@ -2,22 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ganesh%20Modi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Performance%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%" alt="header"/>
 
-<a href="https://github.com/ganeshmodi">
+<a href="https://github.com/itzganesh03">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=00ADD8&center=true&vCenter=true&width=780&lines=Backend+Engineer+%7C+Golang+%E2%9A%A1;High-Throughput+%26+Low-Latency+Systems;Kafka+%C2%B7+Redis+%C2%B7+ScyllaDB+%C2%B7+RocksDB;Ad+Serving+Platforms+at+Scale;Cache+Engines+%26+Performance+Optimization" alt="typing"/>
 </a>
 
-<br/>
+
+
 
 <img src="https://img.shields.io/badge/Experience-4%2B%20Years-00ADD8?style=for-the-badge&labelColor=0F2027" alt="experience"/>
 <img src="https://img.shields.io/badge/Since-15%20May%202022-2C5364?style=for-the-badge&labelColor=0F2027" alt="since"/>
 <img src="https://img.shields.io/badge/Focus-Backend%20Performance-7B42BC?style=for-the-badge&labelColor=0F2027" alt="focus"/>
 <img src="https://img.shields.io/badge/Primary-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0F2027" alt="go"/>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ganeshmodi&label=Profile%20Views&color=00ADD8&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/ganeshmodi?label=Followers&style=for-the-badge&color=00ADD8&labelColor=0F2027" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ganeshmodi?label=Stars&style=for-the-badge&color=00ADD8&labelColor=0F2027" alt="stars"/>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=itzganesh03&label=Profile%20Views&color=00ADD8&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/itzganesh03?label=Followers&style=for-the-badge&color=00ADD8&labelColor=0F2027" alt="followers"/>
+<img src="https://img.shields.io/github/stars/itzganesh03?label=Stars&style=for-the-badge&color=00ADD8&labelColor=0F2027" alt="stars"/>
 
 </div>
 
@@ -33,29 +36,29 @@ package main
 import "fmt"
 
 type Engineer struct {
-	Name       string
-	Role       string
-	Since      string
-	Focus      []string
-	Stack      []string
-	Obsession  string
+ Name       string
+ Role       string
+ Since      string
+ Focus      []string
+ Stack      []string
+ Obsession  string
 }
 
 func main() {
-	me := Engineer{
-		Name:  "Ganesh Modi",
-		Role:  "Backend Performance Engineer",
-		Since: "15 May 2022",
-		Focus: []string{
-			"High-TPS ad serving platforms",
-			"Distributed systems & cache engines",
-			"Latency budgets measured in microseconds",
-		},
-		Stack: []string{"Go", "Java", "Python", "Kafka", "Redis", "ScyllaDB", "RocksDB"},
-		Obsession: "Making p99 look like p50",
-	}
+ me := Engineer{
+  Name:  "Ganesh Modi",
+  Role:  "Backend Performance Engineer",
+  Since: "15 May 2022",
+  Focus: []string{
+   "High-TPS ad serving platforms",
+   "Distributed systems & cache engines",
+   "Latency budgets measured in microseconds",
+  },
+  Stack: []string{"Go", "Java", "Python", "Kafka", "Redis", "ScyllaDB", "RocksDB"},
+  Obsession: "Making p99 look like p50",
+ }
 
-	fmt.Printf("%s — shipping backends that don't flinch at scale.\n", me.Name)
+ fmt.Printf("%s — shipping backends that don't flinch at scale.\n", me.Name)
 }
 ```
 
@@ -82,7 +85,9 @@ func main() {
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" alt="java"/>
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" alt="python"/>
 
-<br/><br/>
+
+
+
 
 <img src="https://img.shields.io/badge/Golang-PRIMARY-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0F2027" alt="golang"/>
 <img src="https://img.shields.io/badge/Java-SECONDARY-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F2027" alt="java"/>
@@ -97,7 +102,7 @@ func main() {
 <div align="center">
 
 <table>
-<tr><td width="220"><b>Backend Engineering</b></td><td><code>██████████████████░░</code></td><td><b>95%</b></td></tr>
+<tr><td width="220"><b>Backend Engineering</b></td><td><code>██████████████████░░</td><td><b>95%</b></td></tr>
 <tr><td><b>Golang</b></td><td><code>███████████████████░</code></td><td><b>98%</b></td></tr>
 <tr><td><b>Kafka</b></td><td><code>██████████████████░░</code></td><td><b>95%</b></td></tr>
 <tr><td><b>Linux</b></td><td><code>██████████████████░░</code></td><td><b>90%</b></td></tr>
@@ -108,7 +113,8 @@ func main() {
 <tr><td><b>Python</b></td><td><code>████████████░░░░░░░░</code></td><td><b>60%</b></td></tr>
 </table>
 
-<br/>
+
+
 
 <img src="https://img.shields.io/badge/Backend_Engineering-95%25-00ADD8?style=flat-square&labelColor=0F2027" alt=""/>
 <img src="https://img.shields.io/badge/Golang-98%25-00ADD8?style=flat-square&labelColor=0F2027" alt=""/>
@@ -129,7 +135,8 @@ func main() {
 <details open>
 <summary><b>🧰 Click to expand / collapse the full stack</b></summary>
 
-<br/>
+
+
 
 <div align="center">
 
@@ -150,7 +157,8 @@ func main() {
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,grafana,prometheus&theme=dark" alt="infra"/>
 
-<br/>
+
+
 
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt=""/>
@@ -169,7 +177,8 @@ func main() {
 <details open>
 <summary><b>🛤️ Click to expand / collapse the journey</b></summary>
 
-<br/>
+
+
 
 ```
  ┌─ 2022 ──────────────────────────────────────────────────────────┐
@@ -226,59 +235,87 @@ func main() {
 <details open>
 <summary><b>🏗️ Click to expand / collapse</b></summary>
 
-<br/>
+
+
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/000000/speed.png" width="40"/><br/>
-<b>High-Performance<br/>Backend Systems</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/speed.png" width="40"/>
+
+<b>High-Performance
+Backend Systems</b>
+
 <sub>Services built for sustained high TPS with predictable tail latency</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/000000/advertising.png" width="40"/><br/>
-<b>Ad Serving<br/>Platforms</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/advertising.png" width="40"/>
+
+<b>Ad Serving
+Platforms</b>
+
 <sub>Real-time delivery, tracking, attribution and capping pipelines</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/000000/network.png" width="40"/><br/>
-<b>Distributed<br/>Systems</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/network.png" width="40"/>
+
+<b>Distributed
+Systems</b>
+
 <sub>Multi-node coordination, consistency trade-offs, fault tolerance</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/database.png" width="40"/><br/>
-<b>Cache<br/>Engines</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/database.png" width="40"/>
+
+<b>Cache
+Engines</b>
+
 <sub>In-process and distributed caching frameworks with eviction tuning</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/data-in-both-directions.png" width="40"/><br/>
-<b>Kafka Consumers<br/>& Producers</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/data-in-both-directions.png" width="40"/>
+
+<b>Kafka Consumers
+& Producers</b>
+
 <sub>High-volume ingestion, partition strategy, delivery guarantees</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="40"/><br/>
-<b>REST APIs &<br/>Microservices</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="40"/>
+
+<b>REST APIs &
+Microservices</b>
+
 <sub>Clean contracts, validation layers, versioned rollouts</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/dashboard.png" width="40"/><br/>
-<b>Performance<br/>Optimization</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/dashboard.png" width="40"/>
+
+<b>Performance
+Optimization</b>
+
 <sub>Profiling, allocation reduction, hot-path elimination</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="40"/><br/>
-<b>Low-Latency &<br/>Concurrency</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="40"/>
+
+<b>Low-Latency &
+Concurrency</b>
+
 <sub>Goroutine orchestration, lock contention removal, channel design</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/blueprint.png" width="40"/><br/>
-<b>System Design &<br/>DB Optimization</b><br/>
+<img src="https://img.icons8.com/fluency/48/000000/blueprint.png" width="40"/>
+
+<b>System Design &
+DB Optimization</b>
+
 <sub>Schema and query tuning, capacity planning, scaling strategy</sub>
 </td>
 </tr>
@@ -294,21 +331,25 @@ func main() {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganeshmodi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=ganeshmodi&hide_border=true&theme=tokyonight&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzganesh03&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=itzganesh03&hide_border=true&theme=tokyonight&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="streak"/>
 
-<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshmodi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="top-langs"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshmodi&theme=github_dark" alt="repos-per-language"/>
 
-<br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshmodi&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzganesh03&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="top-langs"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzganesh03&theme=github_dark" alt="repos-per-language"/>
 
-<br/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ganeshmodi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+
+
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzganesh03&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"/>
+
+
+
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=itzganesh03&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -319,7 +360,8 @@ func main() {
 <details open>
 <summary><b>📊 Aggregated engineering statistics — click to expand</b></summary>
 
-<br/>
+
+
 
 > All figures below are **aggregate only**. No commit hashes, repository names, branch names,
 > ticket identifiers or employer-internal details are exposed anywhere on this profile.
@@ -333,7 +375,9 @@ func main() {
 <img src="https://img.shields.io/badge/Primary_Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt=""/>
 <img src="https://img.shields.io/badge/Domain-Ad_Tech_%26_Distributed_Systems-2C5364?style=for-the-badge&labelColor=0D1117" alt=""/>
 
-<br/><br/>
+
+
+
 
 ### Recent Sample Window
 
@@ -348,7 +392,8 @@ func main() {
 
 <sub><i>Sampled from a private backend service. Values are aggregates of an anonymized log — replace with your own full history using the instructions in the repo notes.</i></sub>
 
-<br/>
+
+
 
 ### Contribution Themes (recent window)
 
@@ -403,7 +448,8 @@ func main() {
 <details>
 <summary><b>🚀 Click to expand the long version</b></summary>
 
-<br/>
+
+
 
 **2022 — Learning the shape of a backend.**
 Joined the industry on 15 May 2022. Spent the first stretch getting fluent in Go and Java, writing REST endpoints, learning how a request actually travels through a service, and internalising why "it works locally" is not a milestone.
@@ -429,36 +475,49 @@ Currently focused on high-TPS systems, cache framework design, and squeezing pre
 <details open>
 <summary><b>🏅 Click to expand / collapse</b></summary>
 
-<br/>
+
+
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-BACKEND_ENGINEERING-00ADD8?style=for-the-badge&labelColor=0D1117" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/-BACKEND_ENGINEERING-00ADD8?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+
 <sub>Production ownership of Go services from design through on-call</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-DISTRIBUTED_SYSTEMS-7B42BC?style=for-the-badge&labelColor=0D1117" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/-DISTRIBUTED_SYSTEMS-7B42BC?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+
 <sub>Multi-node state, consistency trade-offs, graceful degradation</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-HIGH_THROUGHPUT-2C5364?style=for-the-badge&labelColor=0D1117" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/-HIGH_THROUGHPUT-2C5364?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+
 <sub>Sustained high-TPS request paths under real traffic</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/-PERFORMANCE_OPTIMIZATION-1F6F8B?style=for-the-badge&labelColor=0D1117" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/-PERFORMANCE_OPTIMIZATION-1F6F8B?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+
 <sub>Measurable latency and memory reductions on hot paths</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/-KAFKA_DEVELOPMENT-231F20?style=for-the-badge&labelColor=0D1117" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/-KAFKA_DEVELOPMENT-231F20?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+
 <sub>Topic design, partition strategy, consumer group tuning</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/-DATABASE_ENGINEERING-DC382D?style=for-the-badge&labelColor=0D1117" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/-DATABASE_ENGINEERING-DC382D?style=for-the-badge&labelColor=0D1117" alt=""/>
+
+
 <sub>ScyllaDB, RocksDB, Redis and MySQL access-pattern design</sub>
 </td>
 </tr>
@@ -475,18 +534,20 @@ Currently focused on high-TPS systems, cache framework design, and squeezing pre
 <details>
 <summary><b>📦 Click to expand</b></summary>
 
-<br/>
+
+
 
 <div align="center">
 
-<a href="https://github.com/ganeshmodi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshmodi&repo=REPO_NAME_1&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="repo1"/>
+<a href="https://github.com/itzganesh03">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzganesh03&repo=REPO_NAME_1&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="repo1"/>
 </a>
-<a href="https://github.com/ganeshmodi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshmodi&repo=REPO_NAME_2&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="repo2"/>
+<a href="https://github.com/itzganesh03">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzganesh03&repo=REPO_NAME_2&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="repo2"/>
 </a>
 
-<br/>
+
+
 
 <sub><i>Replace <code>REPO_NAME_1</code> / <code>REPO_NAME_2</code> with your public repositories. Most of my production work lives in private repositories, so this section highlights public and personal projects only.</i></sub>
 
@@ -501,9 +562,9 @@ Currently focused on high-TPS systems, cache framework design, and squeezing pre
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshmodi/ganeshmodi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshmodi/ganeshmodi/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ganeshmodi/ganeshmodi/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzganesh03/itzganesh03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzganesh03/itzganesh03/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/itzganesh03/itzganesh03/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -516,15 +577,18 @@ Currently focused on high-TPS systems, cache framework design, and squeezing pre
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://github.com/ganeshmodi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://github.com/itzganesh03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://stackoverflow.com/users/YOUR_SO_ID"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="so"/></a>
 
-<br/><br/>
+
+
+
 
 <i>"Correctness first. Then make it fast. Then make it boring to operate."</i>
 
-<br/>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
 
-</div>
+</div></code>
